@@ -35,5 +35,7 @@ public class App {
 
             }
         }
+
+        sc.close();
     }
 }
